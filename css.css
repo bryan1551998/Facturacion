@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.menuPrincipal {
+    background: linear-gradient(80.41deg,
+            rgba(68, 101, 192, 0.888) -23.1%,
+            rgb(102, 135, 233) 43.41%,
+            rgb(106, 123, 217) 111.68%);
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.menuPrincipal:hover,
+.nav-link:hover {
+    color: rgb(220, 217, 217) !important;
+}
+
+#tituloPagina {
+    font-size: 25px;
+    padding-left: 50px;
+    color: white;
+}
+
+#footer {
+    background-color: rgba(0, 0, 0, 0.901);
+}
+
+.clients {
+    text-decoration: none;
+    color: #363e8d;
+}
+
+.clients:hover {
+    color: #ab8acf;
+}
